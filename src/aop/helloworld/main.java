@@ -1,7 +1,7 @@
 package aop.helloworld;
 
 public class main {
-
+	//AOP
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArithmeticCalculator target=new ArithmeticCalculatorImpl();
